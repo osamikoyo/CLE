@@ -1,0 +1,3 @@
+/home/osami/Документы/code/c/console-render/cmake-build-debug/CMakeFiles/console-render.dir
+/home/osami/Документы/code/c/console-render/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/osami/Документы/code/c/console-render/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc "CMakeFiles/console-render.dir/src/main.c.o" -o console-render 
